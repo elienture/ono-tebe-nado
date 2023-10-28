@@ -15,6 +15,7 @@
     margin: 92px 49px 92px 51px;
 }
 
+
 .address {
     max-width: 240px;
     font-size: 18px;
@@ -57,6 +58,7 @@
     font-weight: 400;
     line-height: normal;    
 }
+
 
 .header_link_active {
     text-decoration: none;
@@ -216,7 +218,6 @@
     z-index: 2;
     width: 430px;
     height: 100%;
-
 }
 
 
@@ -363,9 +364,11 @@
     text-align: start; 
 }
 
+
 .footer_address_link {
     text-underline-offset: 4px;
 }
+
 
 .footer_menu {
     font-size: 18px;
@@ -379,6 +382,7 @@
     list-style: none;
     text-align: center;
 }
+
 
 .footer_menu_link {
     text-decoration: underline;
